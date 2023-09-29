@@ -25,3 +25,17 @@ canvas {
     display: block;
     margin: auto;
 }
+
+<style>
+    #menu {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+
+    #startButton {
+        font-size: 20px;
+    }
+</style>
